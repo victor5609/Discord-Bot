@@ -5,6 +5,10 @@ Text Commands
 -meme
 -gender
 -triggered
+-anelle
+-hellothere
+-fedjensen
+-wiggles
 
 Image memes
 -meme
