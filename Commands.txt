@@ -6,13 +6,17 @@ Text Commands
 -gender
 -triggered
 -anelle
--hellothere
--fedjensen
--wiggles
+
 
 Image memes
 -meme
 -sexmelemon
+-hellothere
+-fedjensen
+-wiggles
+-chair
+-dad
+-dance
 
 TTS
 -@
