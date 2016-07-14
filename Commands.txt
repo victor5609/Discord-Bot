@@ -3,6 +3,7 @@ Text Commands
 -summonsneaky
 -dicknuke
 -meme
+-gender
 
 Image memes
 -meme
